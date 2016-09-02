@@ -225,7 +225,7 @@ U 1 1 57A370AF
 P 1600 7950
 F 0 "D50" H 1600 8100 50  0000 C CNN
 F 1 "TVS" H 1600 7800 50  0000 C CNN
-F 2 "Diodes_SMD:DO-214AB" H 1600 7950 50  0001 C CNN
+F 2 "Eigene Footprints:DO-214AA" H 1600 7950 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/240/Littelfuse_TVS-Diode_SMBJ-48653.pdf" H 1600 7950 50  0001 C CNN
 	1    1600 7950
 	0    1    1    0   
@@ -2418,7 +2418,6 @@ Wire Wire Line
 Wire Wire Line
 	8850 2550 9400 2550
 Connection ~ 3350 2550
-Connection ~ 2850 2250
 Connection ~ 3450 7750
 Connection ~ 3050 7550
 Connection ~ 9250 7750
